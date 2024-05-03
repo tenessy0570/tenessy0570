@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @tenessy0570
-- 👀 I’m interested in python backend developing
+- 👀 I’m interested in backend developing
